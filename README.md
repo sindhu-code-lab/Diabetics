@@ -1,1 +1,3 @@
-# Diabetics
+Diabetes Prediction Project
+
+This project is aimed at predicting whether a person has diabetes or not using machine learning techniques. The dataset used is the Pima Indians Diabetes Database (`diabetes.csv`), which contains medical parameters such as glucose level, blood pressure, BMI, age, and more. The Jupyter Notebook (`diabetes_pred.ipynb`) includes the steps of loading the dataset, performing exploratory data analysis, splitting the data into training and testing sets, building machine learning models such as Logistic Regression and Random Forest, and evaluating their performance. The results show that the models can achieve an accuracy of around 75–80% in predicting diabetes. The repository contains three main files: `README.md` (project documentation), `diabetes_pred.ipynb` (the notebook with code and analysis), and `diabetes.csv` (the dataset).
